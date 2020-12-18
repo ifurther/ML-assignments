@@ -1,10 +1,10 @@
-- machine learning的本质就是寻找一个function
+- machine learning (ML) 的本质就是寻找一个function(類似想找出一個能夠解決此問題的演算法）
 
     当然它可以相当复杂，以至于根本没有人能够把这个function的数学式给手写出来
 
 - 首先要做的是明确你要找什么样的function，大致上分为以下三类：
 
-    - Regression——让机器输出一个数值，如预测PM2.5
+    - Regression——让机器输出一个数值，如预测PM2.5 (輸入與輸出有相關性）
     - Classification——让机器做选择题
         - 二元选择题——binary classification，如用RNN做文本语义的分析，是正面还是负面
         - 多元选择题——muti-class classification，如用CNN做图片的多元分类
@@ -42,7 +42,7 @@
 
     - Adversarial Attack 
 
-        举例来说，现在的图像识别系统已经相当的完善，甚至可以在有诸多噪声的情况下也能成功识别，而Adversarial Attack要做的事情是专门针对机器设计噪声，刻意制造出那些对人眼影响不大，却能够对机器进行全面干扰使之崩溃的噪声图像 (用CNN)
+        举例来说，现在的图像识别系统已经相当的完善，甚至可以在有诸多噪声的情况下也能成功识别，而Adversarial Attack要做的事情是专门针对机器设计噪声，刻意制造出那些对人眼影响不大，却能够对机器进行全面干扰使之崩溃的噪声图像 (用CNN) （用來堤防AI的技術）
 
     - Network Compression
 
