@@ -1,9 +1,10 @@
 > ML assignments, about Regression, Classification, CNN, RNN, Explainable AI, Adversarial Attack, Network Compression, Seq2Seq, GAN, Transfer Learning, Meta Learning, Life-long Learning, Reforcement Learning. It will be challenge but cheerful work!
 
+機器學習作業，關於
 #### Learning Map
 
 - [introduction](ML-introduction.md)
-- 学习笔记：https://github.com/Sakura-gh/ML-notes
+- 學習筆記/学习笔记(原始網址）：https://github.com/Sakura-gh/ML-notes
 
 <img src="./img/Assignment.png" alt="Assignment" style="zoom:75%;" />
 
